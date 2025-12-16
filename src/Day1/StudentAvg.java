@@ -1,3 +1,4 @@
+package Day1;
 
 class StudentPrivate{
     String name;

@@ -1,3 +1,5 @@
+package Day2;
+
 import java.util.Scanner;
 public class prime {
     public static void main(String[] args) {
@@ -13,9 +15,9 @@ public class prime {
             }
         }
         if (isPrime== true) {
-            System.out.println(num + " is a prime number.");
+            System.out.println(num + " is a Day2.prime number.");
         } else {
-            System.out.println(num + " is NOT a prime number.");
+            System.out.println(num + " is NOT a Day2.prime number.");
         }
     }
 }

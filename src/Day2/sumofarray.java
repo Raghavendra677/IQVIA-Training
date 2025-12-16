@@ -1,3 +1,5 @@
+package Day2;
+
 public class sumofarray{
     public static void main(String[] args) {
         int[] prices={100, 200, 150, 50};
