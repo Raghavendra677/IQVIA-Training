@@ -26,7 +26,7 @@ public class SimpleLibraryApp {
         List<Book> books = new ArrayList<>();
 
         while (true) {
-            System.out.println("\n=== Library Menu ===");
+            System.out.println("\n---Library Menu---");
             System.out.println("1. Add Book");
             System.out.println("2. View Books");
             System.out.println("3. Search by Title");
